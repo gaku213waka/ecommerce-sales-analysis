@@ -53,3 +53,7 @@ ECサイトの購買データを顧客行動や商品カテゴリ別の売上傾
 ## ファイル
 
 * sale_price_anarytics.ipynb
+
+ ## Notebook
+
+[分析コードを見る](sale_price_anarytics.ipynb)
