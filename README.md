@@ -22,13 +22,17 @@ ECサイトの購買データを顧客行動や商品カテゴリ別の売上傾
 
 * 時系列分析
 
+## 年月別カテゴリ別利益傾向
 <img src="monthly.png" width="700">
+
 * ユーザー分析
 
+## 年代別売上傾向
 <img src="age_group.png" width="700">
 
 * 価格帯分析
 
+## 価格帯利益傾向
 <img src="price_group.png" width="700">
   
 * 改善提案
