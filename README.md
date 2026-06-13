@@ -9,7 +9,16 @@
 目次
 
 ・Skills
+
 ・Projects
 
 ---
+
+💻Skills
+SQL
+Python
+Pandas
+BigQuery
+Matplotlib
+Seaborn
 
