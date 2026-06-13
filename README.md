@@ -59,14 +59,15 @@ RFMの三要素確認
 
 <img src="images/rfm_category.png" width="700">
 
-
 ---
 
 ### コホート分析
 
 約90%の顧客が1ヶ月以内に離脱していた。2ヶ月目以降でのリピート率に大きな減少はなかった
-![コホート分析](images/Retention_Rate.png)
 
+年代別離脱率の確認
+
+<img src="images/Retention＿Rate.png" width="700">
 ---
 
 ### 結果
