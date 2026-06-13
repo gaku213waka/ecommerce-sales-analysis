@@ -67,7 +67,7 @@ RFMの三要素確認
 
 年代別離脱率の確認
 
-<img src="images/Retention＿Rate.png" width="700">
+<img src="images/Retention_Rate.png" width="700">
 ---
 
 ### 結果
