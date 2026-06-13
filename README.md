@@ -41,20 +41,21 @@ RFM
 
 ### EDA分析
 男女で購入しているカテゴリの種類に違いが見られた。
-![RFM分析](images/rfm_analysis.png)
+![EDA分析](images/category_count.png)
 
 ---
 
 ### RFM分析
 初回購入のみの顧客が76.1%いることが分かった。その中でもVIP顧客は一人当たりの利益が優良顧客の2倍にもなる。
-![RFM分析](images/rfm_analysis.png)
+![RFM分析](images/rfm_data.png)
+![RFM分析](rfm_category.png)
 
 ---
 
 ### コホート分析
 
 約90%の顧客が1ヶ月以内に離脱していた。2ヶ月目以降でのリピート率に大きな減少はなかった
-![コホート分析](images/cohort_heatmap.png)
+![コホート分析](images/Retention_Rate.png)
 
 ---
 
