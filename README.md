@@ -20,5 +20,5 @@
 - Seaborn
 ---
 ## 📜Projects
-E-Commerce Customer Analysis
+**E-Commerce Customer Analysis**データセットを用いて、EDA分析、RFM分析、コホート分析を実施し、ECサイトの売上向上につながる顧客分析を行い施策を考えました。
 
