@@ -1,4 +1,4 @@
-##自己紹介
+## 自己紹介
 
 東京電機大学3年　若林　岳人
 
@@ -6,12 +6,12 @@
 顧客分析やマーケティング分析に興味があり、データから課題を発見し改善策を提案することを目標にしています。
 
 ---
-##目次
+## 目次
 - Skills
 - Projects
 ---
 
-##💻Skills
+## 💻Skills
 - SQL
 - Python
 - Pandas
@@ -19,6 +19,6 @@
 - Matplotlib
 - Seaborn
 ---
-##📜Projects
+## 📜Projects
 E-Commerce Customer Analysis
 
