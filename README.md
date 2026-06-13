@@ -41,7 +41,10 @@ RFM
 
 ### EDA分析
 男女で購入しているカテゴリの種類に違いが見られた。
+
+カテゴリ別購入数
 ![EDA分析](images/category_count.png)
+<img src="images/category_count.png" width="700">
 
 ---
 
