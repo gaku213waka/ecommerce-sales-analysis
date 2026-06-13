@@ -68,7 +68,7 @@ RFM分析の結果、全顧客の76.1%が初回購入のみであることが分
 
 RFMの三要素確認
 
-<img src="images/rfm_data.png" width="400">
+<img src="images/rfm_data.png" width="600">
 
 顧客ランクごとの購入カテゴリ
 
@@ -90,7 +90,7 @@ RFMの三要素確認
 
 年代別離脱率の確認
 
-<img src="images/Retention_Rate.png" width="400">
+<img src="images/Retention_Rate.png" width="600">
 
 ---
 
