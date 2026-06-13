@@ -15,10 +15,17 @@
 ---
 
 💻Skills
-SQL
-Python
-Pandas
-BigQuery
-Matplotlib
-Seaborn
+・SQL
+
+・Python
+
+・Pandas
+
+・BigQuery
+
+・Matplotlib
+
+・Seaborn
+
+---
 
