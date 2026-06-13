@@ -44,7 +44,7 @@ RFM
 
 カテゴリ別購入数
 
-<img src="images/category_count.png" width="700">
+<img src="images/category_count.png" width="400">
 
 ---
 
@@ -53,11 +53,11 @@ RFM
 
 RFMの三要素確認
 
-<img src="images/rfm_data.png" width="700">
+<img src="images/rfm_data.png" width="400">
 
 顧客ランクごとの購入カテゴリ
 
-<img src="images/rfm_category.png" width="700">
+<img src="images/rfm_category.png" width="400">
 
 ---
 
