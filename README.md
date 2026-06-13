@@ -29,11 +29,11 @@ BigQuery Public Datasetのthelook_ecommerceを使用し、顧客分析を実施�
 ### 分析フロー
 
 EDA
-↓
+→
 RFM
-↓
+→
 コホート
-↓
+→
 施策提案
 
 ### 結果
