@@ -43,16 +43,18 @@ RFM
 男女で購入しているカテゴリの種類に違いが見られた。
 
 カテゴリ別購入数
-![EDA分析]<img src="images/category_count.png" width="700">
+<img src="images/category_count.png" width="700">
 
 ---
 
 ### RFM分析
 初回購入のみの顧客が76.1%いることが分かった。その中でもVIP顧客は一人当たりの利益が優良顧客の2倍にもなる。
+
 RFMの三要素確認
-![RFM分析]<img src="images/rfm_data.png" width="700">
+<img src="images/rfm_data.png" width="700">
+
 顧客ランクごとの購入カテゴリ
-![RFM分析]<img src="images/rfm_category.png" width="700">
+<img src="images/rfm_category.png" width="700">
 
 
 ---
