@@ -20,5 +20,12 @@
 - Seaborn
 ---
 ## 📜Projects
-**E-Commerce Customer Analysis**データセットを用いて、EDA分析、RFM分析、コホート分析を実施し、ECサイトの売上向上につながる顧客分析を行い施策を考えました。
+## ECサイト利益向上のための顧客分析
+コード: ecommerce_analysis.ipynb
+### 目標
+ECサイトの利益向上につながる顧客行動を分析し、施策を提案する。
+### 説明
+BigQuery Public Datasetのthelook_ecommerceを使用し、顧客分析を実施した。
+
+EDA分析により顧客属性やカテゴリ別利益を把握し、RFM分析で優良顧客を特定した。その後コホート分析によって顧客の定着状況を分析し、利益向上に向けた施策提案を行った。
 
